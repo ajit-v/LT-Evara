@@ -234,7 +234,7 @@ section {
         background-color: grey;
         border: 1px solid grey;
         /* margin-bottom: 6px; */
-    }
+    } 
 
     .tabView {
         display: none !important;

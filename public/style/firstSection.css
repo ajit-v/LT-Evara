@@ -124,8 +124,8 @@
 
 #seperator {
     width: 3px;
-    background:  grey;
-    border: 1px solid grey;
+    background:  #000000 ;
+    border: 1.4px solid #000000;
 }
 
 .feature-border {
